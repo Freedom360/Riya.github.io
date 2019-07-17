@@ -1,0 +1,19 @@
+p{
+	font-size: 1em;
+	line-height: 1.25em;
+	font-style: italic;
+}
+
+h1, h2{
+	color: #ff00ff;
+	text-decoration: underline;
+	font-size: 2em;
+	line-height: 4em;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+
+body{
+	background-color: #008080;
+
+}
